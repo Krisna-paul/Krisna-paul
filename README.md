@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisna-paul&label=Profile%20views&color=0e75b6&style=flat" alt="krisna-paul" /> </p>
 
-- 🔭 Applying deep learning techniques like LSTM, BiLSTM, Transformers for text understanding and prediction.
+- 🔭 Currently applying deep learning techniques such as LSTM, BiLSTM, and Transformers for text understanding and prediction in NLP projects.
 
 - 🌱 I’m currently learning **Natural Language Processing (NLP)**
 
