@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisna-paul&label=Profile%20views&color=0e75b6&style=flat" alt="krisna-paul" /> </p>
 
-- 🔭 I’m currently working on **🚦 Traffic Management System using YOLOv8 Real-time vehicle detection, speed estimation, and OCR-based license plate recognition**
+- 🔭 Applying deep learning techniques like LSTM, BiLSTM, Transformers for text understanding and prediction.
 
 - 🌱 I’m currently learning **Natural Language Processing (NLP)**
 
